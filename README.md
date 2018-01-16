@@ -1,2 +1,2 @@
 # RPi-Exploring
-Project NOtes
+Project N0tes
